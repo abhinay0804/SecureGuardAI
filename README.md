@@ -6,6 +6,8 @@
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-Llama_3.1_70B-76B900?style=for-the-badge&logo=nvidia)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.6-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+> 🔗 **GitHub Repository**: [https://github.com/abhinay0804/SecureGuardAI](https://github.com/abhinay0804/SecureGuardAI)
+>
 > **SecureGuard AI** is a state-of-the-art enterprise fraud detection platform that combines **Hybrid Machine Learning & Rule-based Risk Scoring** with **NVIDIA NIM LLM Explainability** (`meta/llama-3.1-70b-instruct`). It empowers financial risk analysts to detect high-risk transactions in real-time and understand *why* a transaction was flagged through human-readable AI explanations.
 
 ---
