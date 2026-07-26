@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.venv*/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+.pnpm-store/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pip-log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local data and caches
+.cache/
+coverage/
+*.sqlite3
+*.db
+
+# Explainability key (local keys & provider selection)
+.nvidia_explain_key
+.gemini_explain_key
+.active_explain_provider
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Media & Recordings
+*.mp4
+*.webm
+*.webp
+*.mp3
+pw_recordings/
+.tempmediaStorage/
+

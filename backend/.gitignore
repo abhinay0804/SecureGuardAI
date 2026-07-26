@@ -1,0 +1,12 @@
+Hide the secret .env file
+
+.env
+.nvidia_explain_key
+
+Hide the virtual environment
+
+venv/
+
+__pycache__/
+*.pyc
+*.ipynb
