@@ -1,6 +1,5 @@
 # 🛡️ SecureGuard AI — Real-Time Fraud Detection & Explainable AI Platform
 
-![Hackathon Ready](https://img.shields.io/badge/Hackathon-Submission-emerald?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-Llama_3.1_70B-76B900?style=for-the-badge&logo=nvidia)
